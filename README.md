@@ -13,12 +13,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/luciano_bucher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luciano_bucher" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/luciano bucher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano bucher" height="30" width="40" /></a>
-<a href="https://fb.com/luciano bucher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luciano bucher" height="30" width="40" /></a>
-<a href="https://instagram.com/lucianobucher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucianobucher" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/luciano inc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luciano inc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luciano-bucher-b44b7323a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano bucher" height="30" width="40" /></a>
+  
 <a href="https://discord.gg/lusianox#0228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lusianox#0228" height="30" width="40" /></a>
+  
+<a href="https://www.youtube.com/@LucianosInc/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luciano inc" height="30" width="40" /></a>
+  
+<a href="https://instagram.com/lucianobucher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucianobucher" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
