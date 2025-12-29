@@ -1,11 +1,12 @@
 <h1 align="center">Bucher Luciano</h1>
-<h3 align="center">Full Stack Dev</h3>
+<h3 align="center">Full Stack Developer & QA Tester</h3>
 
-- I’m currently working on **Software Testing**.
+- I’m currently working on **Software Testing**
 
-- I’m currently learning **C#, .NET and React**.
+- I’m currently learning **C#, .NET and React**
 
-- Check my portfolio here! https://lusianox.github.io/portfolio/
+- Check my portfolio here: https://lusianox.github.io/portfolio/
+- Visit my LinkedIn here: https://www.linkedin.com/in/lucianobucher/
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -43,10 +44,4 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
 </p>
-
-<h3 align="left">Visit my LinkedIn:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lucianobucher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Perfil de LinkedIn" height="30" width="40" /></a>
-</p>
-
 
