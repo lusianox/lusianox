@@ -1,4 +1,4 @@
-<h1 align="center">Bucher Luciano</h1>
+<h1 align="center">Luciano Bucher</h1>
 <h3 align="center">Full Stack Developer & QA Tester</h3>
 
 - I’m currently working on **Software Testing**
