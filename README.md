@@ -1,4 +1,4 @@
-# Hi, I'm Luciano 👋
+# Hi, I'm Luciano Bucher
 
 Backend-focused developer with a strong interest in business logic, problem modeling, and API design.
 
